@@ -65,3 +65,8 @@ The core of OPP is a structured JSON object that contains both the **Evidence** 
     ]
   }
 }
+
+Distributed under the Apache License 2.0. See LICENSE for more information.
+
+Built by Fillume Technology.
+http://1paper.link
